@@ -50,5 +50,4 @@ public class FixStylesErrors : MonoBehaviour
 public class DataClass
 {
     public int sample;
-    
 }
