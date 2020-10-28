@@ -1,5 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿// "using System.Collections;" removed.
+// "using System.Collections.Generic;" removed.
 using UnityEngine;
 
 namespace Game.Scripts
@@ -7,4 +7,5 @@ namespace Game.Scripts
     public class SampleScript : MonoBehaviour
     {
     }
+
 }
